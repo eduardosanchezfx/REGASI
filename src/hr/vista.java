@@ -20,7 +20,7 @@ public class vista extends javax.swing.JFrame {
     private static final String driver = "com.mysql.jdbc.Driver";
     private static final String user = "root";
     private static final String pass = "";
-    private static final String url = "jdbc:mysql://localhost:3306/escuela";
+    private static final String url = "jdbc:mysql://localhost:3306/dbregasi";
 
     PreparedStatement ps;
     ResultSet rs;
